@@ -1,6 +1,6 @@
 {
     "version": 0,
-    "date": "2025-07-13 20:11:30",
+    "date": "2025-07-14 00:00:13",
     "url": "chrome-extension://likgccmbimhjbgkjambclfkhldnlhbnn/",
     "manifest": {
         "action": {
@@ -2469,7 +2469,7 @@
                             {
                                 "name": "Expression",
                                 "icon": "big-circle",
-                                "deck": "Mining JP::Manga::Ao no Hako",
+                                "deck": "Manga::Ao no Hako",
                                 "model": "Lapis",
                                 "fields": {
                                     "Expression": {
@@ -3786,8 +3786,8 @@
                             {
                                 "name": "Expression",
                                 "icon": "big-circle",
-                                "deck": "Mining JP::Anime::Fumetsu No Anata E",
-                                "model": "Mining-JP",
+                                "deck": "Anime::Ao No Hako",
+                                "model": "Lapis",
                                 "fields": {
                                     "Expression": {
                                         "value": "{expression}",
@@ -3805,8 +3805,16 @@
                                         "value": "{audio}",
                                         "overwriteMode": "coalesce"
                                     },
-                                    "MainDefinition": {
+                                    "SelectionText": {
                                         "value": "{popup-selection-text}",
+                                        "overwriteMode": "coalesce"
+                                    },
+                                    "MainDefinition": {
+                                        "value": "{single-glossary-jidict}",
+                                        "overwriteMode": "coalesce"
+                                    },
+                                    "DefinitionPicture": {
+                                        "value": "",
                                         "overwriteMode": "coalesce"
                                     },
                                     "Sentence": {
@@ -3821,24 +3829,36 @@
                                         "value": "",
                                         "overwriteMode": "coalesce"
                                     },
-                                    "Hint": {
-                                        "value": "{cloze-prefix}<b>{cloze-body}</b>{cloze-suffix}",
+                                    "Picture": {
+                                        "value": "",
                                         "overwriteMode": "coalesce"
                                     },
-                                    "FullDefinition": {
+                                    "Glossary": {
                                         "value": "{glossary}",
                                         "overwriteMode": "coalesce"
                                     },
-                                    "Image": {
-                                        "value": "{screenshot}",
+                                    "Hint": {
+                                        "value": "",
                                         "overwriteMode": "coalesce"
                                     },
-                                    "Translation": {
+                                    "IsWordAndSentenceCard": {
+                                        "value": "",
+                                        "overwriteMode": "coalesce"
+                                    },
+                                    "IsClickCard": {
+                                        "value": "",
+                                        "overwriteMode": "coalesce"
+                                    },
+                                    "IsSentenceCard": {
                                         "value": "",
                                         "overwriteMode": "coalesce"
                                     },
                                     "PitchPosition": {
                                         "value": "{pitch-accent-positions}",
+                                        "overwriteMode": "coalesce"
+                                    },
+                                    "PitchCategories": {
+                                        "value": "{pitch-accent-categories}",
                                         "overwriteMode": "coalesce"
                                     },
                                     "Frequency": {
@@ -3851,14 +3871,6 @@
                                     },
                                     "MiscInfo": {
                                         "value": "{document-title}",
-                                        "overwriteMode": "coalesce"
-                                    },
-                                    "ExtraField": {
-                                        "value": "{tags}",
-                                        "overwriteMode": "coalesce"
-                                    },
-                                    "*IsSentenceCard": {
-                                        "value": "",
                                         "overwriteMode": "coalesce"
                                     }
                                 },
@@ -5101,7 +5113,7 @@
                             {
                                 "name": "Expression",
                                 "icon": "big-circle",
-                                "deck": "Mining JP::Anime",
+                                "deck": "YT Mining",
                                 "model": "Lapis",
                                 "fields": {
                                     "Expression": {
@@ -6493,7 +6505,7 @@
                             {
                                 "name": "Expression",
                                 "icon": "big-circle",
-                                "deck": "Mining JP::Light Novel::夢が覚めるまで",
+                                "deck": "Light Novel::夢が覚めるまで",
                                 "model": "Lapis",
                                 "fields": {
                                     "Expression": {
@@ -7830,7 +7842,7 @@
                             {
                                 "name": "Expression",
                                 "icon": "big-circle",
-                                "deck": "Mining JP::Game::Wuthering Waves",
+                                "deck": "Internet",
                                 "model": "Lapis",
                                 "fields": {
                                     "Expression": {
@@ -8375,7 +8387,7 @@
                 "id": "e3a4d6fd11fbbe72fbb44711ddcd3d88"
             }
         ],
-        "profileCurrent": 5,
+        "profileCurrent": 1,
         "global": {
             "database": {
                 "prefixWildcardsSupported": true
