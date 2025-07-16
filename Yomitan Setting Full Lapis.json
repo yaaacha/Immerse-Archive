@@ -1,6 +1,6 @@
 {
     "version": 0,
-    "date": "2025-07-14 00:00:13",
+    "date": "2025-07-16 19:51:11",
     "url": "chrome-extension://likgccmbimhjbgkjambclfkhldnlhbnn/",
     "manifest": {
         "action": {
@@ -66,7 +66,7 @@
             "sandbox": "sandbox allow-scripts; default-src 'self'; script-src 'self' 'unsafe-eval'; style-src 'unsafe-inline'"
         },
         "description": "Popup dictionary for language learning",
-        "differential_fingerprint": "1.7f3aa7f1dbafc232a4284cc2f95e1aa1671efdcd9cae440b4f39a59950d5c0e0",
+        "differential_fingerprint": "1.5801088f632395e910983ee4d7afec807bbbd82867b852959bec80c3a7c6ea31",
         "host_permissions": [
             "<all_urls>"
         ],
@@ -109,7 +109,7 @@
             ]
         },
         "update_url": "https://clients2.google.com/service/update2/crx",
-        "version": "25.6.30.0",
+        "version": "25.7.7.0",
         "web_accessible_resources": [
             {
                 "matches": [
@@ -151,7 +151,7 @@
         ]
     },
     "options": {
-        "version": 67,
+        "version": 68,
         "profiles": [
             {
                 "name": "Default",
@@ -3082,7 +3082,7 @@
                     "audio": {
                         "enabled": true,
                         "volume": 100,
-                        "autoPlay": false,
+                        "autoPlay": true,
                         "sources": [
                             {
                                 "type": "custom-json",
@@ -6557,7 +6557,7 @@
                                         "overwriteMode": "coalesce"
                                     },
                                     "Hint": {
-                                        "value": "{cloze-prefix}<b>{cloze-body}</b>{cloze-suffix}",
+                                        "value": "",
                                         "overwriteMode": "coalesce"
                                     },
                                     "IsWordAndSentenceCard": {
@@ -7842,7 +7842,7 @@
                             {
                                 "name": "Expression",
                                 "icon": "big-circle",
-                                "deck": "Internet",
+                                "deck": "Mining JP::Internet",
                                 "model": "Lapis",
                                 "fields": {
                                     "Expression": {
@@ -7894,7 +7894,7 @@
                                         "overwriteMode": "coalesce"
                                     },
                                     "Hint": {
-                                        "value": "{cloze-prefix}<b>{cloze-body}</b>{cloze-suffix}",
+                                        "value": "",
                                         "overwriteMode": "coalesce"
                                     },
                                     "IsWordAndSentenceCard": {
@@ -8387,7 +8387,7 @@
                 "id": "e3a4d6fd11fbbe72fbb44711ddcd3d88"
             }
         ],
-        "profileCurrent": 1,
+        "profileCurrent": 5,
         "global": {
             "database": {
                 "prefixWildcardsSupported": true
