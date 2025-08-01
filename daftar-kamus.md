@@ -4,15 +4,15 @@
 
 1. **JIDict** – `rev.JIDict`
 
-   * Kamus Jepang-Indonesia berbasis JMdict, dikembangkan oleh tim JIDict, fokus pada hasil yang mudah dipahami oleh pelajar Indonesia.
+   * Kamus Jepang-Indonesia berbasis JMdict Sanseido, dikembangkan oleh tim Philia Space, fokus pada hasil yang mudah dipahami oleh pelajar bahasa Jepang di Indonesia.
 
 2. **JMdict** – `rev.JMdict.2025-06-24`
 
-   * Kamus Jepang-Inggris utama dengan lebih dari 180.000 entri. Banyak dipakai sebagai sumber utama untuk kamus turunan lain.
+   * Kamus Jepang-Inggris utama dengan lebih dari 180.000 entri. Banyak dipakai sebagai sumber utama untuk kamus turunan lain. Sudah terkoneksi secara default dengan Yomitan dan dapat dicek update langsung di menu `dictionaries`.
 
 3. **Jitendex.org** – `rev.2025.06.01.0`
 
-   * Versi gabungan dari kamus bilingual JMdict, dengan tambahan fitur-fitur khusus dari situs Jitendex.org.
+   * Versi gabungan dari kamus bilingual JMdict, dengan tambahan fitur-fitur khusus dari situs Jitendex.org. Sudah terkoneksi secara default dengan Yomitan dan dapat dicek update langsung di menu `dictionaries`.
 
 4. **新和英** – `rev.Shinwaei1`
 
@@ -22,11 +22,11 @@
 
 5. **JMnedict** – `rev.JMnedict.2024-03-24`
 
-   * Kamus nama-nama orang, tempat, dan organisasi dalam bahasa Jepang. Berguna saat menemui nama khusus.
+   * Kamus nama-nama orang, tempat, dan organisasi dalam bahasa Jepang. Berguna saat menemui nama khusus. Sudah terkoneksi secara default dengan Yomitan dan dapat dicek update langsung di menu `dictionaries`.
 
 6. **KANJIDIC (English)** – `rev.kanjidic2`
 
-   * Informasi karakter kanji dalam bahasa Inggris, termasuk makna, bacaan, stroke, dan level JLPT.
+   * Informasi karakter kanji dalam bahasa Inggris, termasuk makna, bacaan, stroke, dan level JLPT. Sudah terkoneksi secara default dengan Yomitan dan dapat dicek update langsung di menu `dictionaries`.
 
 7. **漢字源** – `rev.kanjigen1`
 
