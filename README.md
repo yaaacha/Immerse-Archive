@@ -1,7 +1,9 @@
 # Immersion Material Archive
 ---
 ## Settingan Yomitan
+  [Unduh di sini](https://github.com/yaaacha/Immerse-Archive/blob/main/Yomitan%20Setting%20Full%20Lapis.json)
 ## Beta Version JMDict JP-EN-ID
+  [Unduh di sini](https://github.com/yaaacha/Immerse-Archive/blob/main/%5BBETA%20VERSION%5D%20JMDict%20JP-EN-ID%20V.0.1.zip)
 ## 📚 [Daftar Kamus Yomitan](/daftar-kamus.md)
 
 Ini adalah daftar kamus yang bisa kamu gunakan bareng Yomitan. Disusun berdasarkan kategori, lengkap dengan penjelasan tiap kamus biar kamu tahu fungsinya.
