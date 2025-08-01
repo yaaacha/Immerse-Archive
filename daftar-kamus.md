@@ -4,7 +4,7 @@
 
 1. **JIDict** – `rev.JIDict`
 
-   * Kamus Jepang-Indonesia berbasis JMdict Sanseido, dikembangkan oleh tim Philia Space, fokus pada hasil yang mudah dipahami oleh pelajar bahasa Jepang di Indonesia.
+   * Kamus Jepang-Indonesia berbasis JMdict dan Sanseido, dikembangkan oleh tim Philia Space, fokus pada hasil yang mudah dipahami oleh pelajar bahasa Jepang di Indonesia.
 
 2. **JMdict** – `rev.JMdict.2025-06-24`
 
